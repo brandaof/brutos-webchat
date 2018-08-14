@@ -22,18 +22,8 @@
 		<!-- Brutos -->
 		<dependency>
 			<groupId>org.brandao</groupId>
-			<artifactId>brutos-core</artifactId>
-			<version>2.0-rc2</version>
-		</dependency>
-		<dependency>
-			<groupId>org.brandao</groupId>
-			<artifactId>brutos-annotation</artifactId>
-			<version>2.0-rc2</version>
-		</dependency>
-		<dependency>
-			<groupId>org.brandao</groupId>
 			<artifactId>brutos-web</artifactId>
-			<version>2.0-rc2</version>
+			<version>2.0-rc3</version>
 		</dependency>
 		<!-- Weld -->
 		<dependency>
